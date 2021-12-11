@@ -1,0 +1,6 @@
+step 1: open anaconda prompt
+step 2: choose path where u downloaded the dlib files
+step 3: use this command ' pip install <dlib file name>'
+After u can install
+pip install cmake
+pip install face-recognition
